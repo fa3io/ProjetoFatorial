@@ -1,5 +1,6 @@
 public class Fatorial{
 	
+	//Versão iterativa do calculo Fatorial
 	public int calcularFatorial(int n){
 		int resultado = 1;
 
